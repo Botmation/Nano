@@ -7,7 +7,7 @@ for detailed instructions and my you tube video.
 #Before installing openCV 4.1 on Nano, will need to increase memory. Can use swapfile to virtually increase.
 #Run these commands to add swap file
 
-sudo fallocate -l 4.0G /swapfile # this is the difference
+sudo fallocate -l 4.0G /swapfile
 sudo chmod 600 /swapfile
 sudo mkswap /swapfile
 sudo swapon /swapfile
