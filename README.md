@@ -2,7 +2,8 @@
 These are install scripts and commands to help install openCV 4.1 on the jetson nano with contrib library. This will also install the extras you need for features like facial recognition.
 
 Check out https://create.botmation.net/p/this-is-quick-guide-to-get-you-started.html
-for detailed instructions and my you tube video.
+for detailed instructions and my you tube video. 
+https://youtu.be/PttoKt6TMDk
 
 #Before installing openCV 4.1 on Nano, will need to increase memory. Can use swapfile to virtually increase.
 #Run these commands to add swap file
